@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pre-commit-k8s",
-    version="0.0.1",
+    version="0.0.2",
     author="Martijn Zwennes",
     author_email="martijnzwennes@pm.me",
     description="pre-commit rules for Kubernetes related files",
