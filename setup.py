@@ -11,7 +11,7 @@ setuptools.setup(
     description="pre-commit rules for Kubernetes related files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/zwennesm/pre-commit-k8s",
     packages=setuptools.find_packages(include=["hooks", "hooks.*"]),
     entry_points={"console_scripts": ["pre-commit-k8s=hooks.validate:main"]},
     classifiers=[
