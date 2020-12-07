@@ -1,0 +1,8 @@
+__pycache__
+.mypy_cache
+.vscode
+.pytest_cache
+pre_commit_k8s.egg-info
+kubernetes-secret.yaml
+dist
+build
