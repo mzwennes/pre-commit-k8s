@@ -1,0 +1,5 @@
+- id: pre-commit-k8s
+  name: pre-commit-k8s
+  description: Validate Kubernetes objects with custom validation rules
+  entry: pre-commit-k8s
+  language: python
