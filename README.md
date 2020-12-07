@@ -21,7 +21,7 @@ Setup the `.pre-commit-config.yaml` config file:
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
 - repo: https://github.com/zwennesm/pre-commit-k8s
-  rev: v0.0.1
+  rev: master
   hooks:
   - id: pre-commit-k8s
     entry: pre-commit-k8s
