@@ -1,6 +1,6 @@
 # pre-commit-k8s
 
-An additional hook that can be used as a hook with (pre-commit)[https://pre-commit.com/] to validate Kubernetes objects.
+An additional hook that can be used as a hook with [pre-commit](https://pre-commit.com/) to validate Kubernetes objects.
 
 Current hooks:
 
