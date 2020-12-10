@@ -17,4 +17,4 @@ class KubernetesSecretRule(Rule):
                 if "kind: Secret" in current.read():
                     return ValidationResult(False, error_msg)
 
-                return ValidationResult(True, None)
+        return ValidationResult(True, None)
